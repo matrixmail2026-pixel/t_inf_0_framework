@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org" xmlns:sy="http://purl.org">
+  <channel rdf:about="https://charleyproject.org">
+    <title>T_inf_0 Identity Framework - Charley Project Activity Monitor</title>
+    <link>https://charleyproject.org</link>
+    <description>Automated analytical tracking for cold-case updates.</description>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2026-10-02T00:00:00Z</sy:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://charleyproject.org/case/ryan-blagojevic"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+
+  <item rdf:about="https://charleyproject.org/case/ryan-blagojevic">
+    <title>Ryan Blagojevic (Portland, Maine)</title>
+    <link>https://charleyproject.org/case/ryan-blagojevic</link>
+    <description>Status: Missing Person of the Week (Cached). Missing since: 2013-03-31. Tracked via Charley Project Data Integration.</description>
+  </item>
+</rdf:RDF>
