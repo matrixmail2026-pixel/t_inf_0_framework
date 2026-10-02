@@ -1,0 +1,4 @@
+# T_inf_0 Analytical Identity Framework
+#
+# This project uses only the Python standard library.
+# No third-party dependencies are required.
