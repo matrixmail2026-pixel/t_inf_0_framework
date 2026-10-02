@@ -12,12 +12,19 @@ env/
 # Logs
 *.log
 cron_execution.log
+scheduler.log
 
 # Generated data feed
 feed.xml
+
+# Runtime files
+scheduler.pid
 
 # OS/editor files
 .DS_Store
 Thumbs.db
 .idea/
 .vscode/
+*.swp
+*.swo
+*~
